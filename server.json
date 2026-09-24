@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/batchdata",
   "title": "Batchdata",
   "description": "BatchData MCP — wraps the BatchData property-data + skip-trace API (batchdata.com)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/batchdata",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-batchdata",
