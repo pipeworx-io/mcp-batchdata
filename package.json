@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-batchdata",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "BatchData MCP — wraps the BatchData property-data + skip-trace API (batchdata.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-b4d65f0afcff2598e406988a542e8fef6af3a978192f80c3ac62ec99b054f9a3",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-56e02e3e17c95926dfe64f57da1a28df090a8f205ad40b8593aae828b04dea00",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
